@@ -1,39 +1,33 @@
 <h1 align="center">Hi 👋, I'm Siri Chandana Vanamala</h1>
-<h3 align="center">Artificial Intelligence & Data Science Undergraduate | Interested in Generative AI</h3>
+<h3 align="center">Artificial Intelligence & Data Science Undergraduate | Focused on Generative AI</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science  
+- 🎓 B.Tech student in Artificial Intelligence and Data Science  
 - 🔭 Currently working on **AI-Based Fraud Detection and Pattern Analysis**  
 - 🌱 Learning **Streamlit, NLP, Generative AI, Prompt Engineering**  
-- 💡 Interested in solving real-world problems using data and machine learning  
-- 📫 Reach me at: **siri3006v@gmail.com**
+- 💡 Interested in building practical AI solutions using data  
+- 📫 Contact: **siri3006v@gmail.com**
 
 ---
 
-### 🚀 Projects
-- 🔗 **Fraud Detection System**  
-  Built models using Logistic Regression and Random Forest on **284K+ transactions**  
-  Improved fraud detection using **synthetic data generation (CTGAN)**  
+### 🚀 Current Project
+- 🔗 <b>AI-Based Fraud Detection and Pattern Analysis</b>  
+  • Worked with **284K+ transaction records**  
+  • Built models using **Logistic Regression and Random Forest**  
+  • Applied **synthetic data generation (CTGAN)** to improve fraud detection  
   👉 https://ai-detection-2-k1tl.onrender.com  
 
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages:** Python, C, Java  
-- **Web:** HTML, CSS  
-- **Libraries:** Pandas, NumPy, Scikit-learn  
-- **Tools:** Git, VS Code  
-- **Concepts:** Machine Learning, Data Analysis, Generative AI  
-
----
-
-### 📊 What I Do
-- Work with datasets and perform data cleaning and analysis  
-- Build and evaluate machine learning models  
-- Visualize data to understand patterns and trends  
-- Develop simple web-based ML applications  
+<p align="left">
+  <b>Languages:</b> Python, C, Java <br>
+  <b>Web:</b> HTML, CSS <br>
+  <b>Libraries:</b> Pandas, NumPy, Scikit-learn <br>
+  <b>Tools:</b> Git, VS Code
+</p>
 
 ---
 
@@ -46,11 +40,19 @@
 
 ---
 
-### ⚡ Quick Facts
-- 📈 Worked with datasets having **200K+ records**  
-- 🤖 Built **multiple ML models** for classification tasks  
-- 📚 Continuously learning and improving technical skills  
+### 📊 What I Do
+- Analyze datasets and clean data for better insights  
+- Build and evaluate machine learning models  
+- Work on classification problems like fraud detection  
+- Develop simple applications to demonstrate models  
 
 ---
 
-⭐ *Open to internship opportunities in AI, Data Science, and Machine Learning*
+### ⚡ Quick Highlights
+- 📈 Handled datasets with **200K+ records**  
+- 🤖 Built **multiple ML models** for real-world problems  
+- 📚 Actively learning and improving AI skills  
+
+---
+
+⭐ <b>Open to internship opportunities in AI, Data Science, and Machine Learning</b>
